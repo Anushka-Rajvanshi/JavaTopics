@@ -1,3 +1,4 @@
+package exceptionhandling;
 class A {
     void display() throws ArithmeticException{
     System.out.println("Before throwing exception");

@@ -1,4 +1,4 @@
-package Interfaces;
+package interfaces;
 interface Area{
     void getArea();
 } 

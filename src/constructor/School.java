@@ -1,3 +1,4 @@
+package constructor;
 class Student{
     int age;
     String name;
@@ -17,7 +18,7 @@ class Student{
     }
 }
 
-public class Constructor {
+public class School {
     public static void main(String args[]){
         Student s1 = new Student();
         Student s2 = new Student(22,"Xyz");

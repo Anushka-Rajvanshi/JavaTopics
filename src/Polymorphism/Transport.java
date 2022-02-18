@@ -1,3 +1,5 @@
+package polymorphism;
+
 class Vehicle{
     void display(){
         System.out.println("It is a vehicle");
@@ -15,11 +17,11 @@ class Bike extends TwoWheeler{
     }
 }
 
-public class Overriding2 {
+public class Transport {
     public static void main(String args[]){
         Vehicle v;
         v = new TwoWheeler();
-        v.display();
+        v.display();                     
         v = new Bike();
         v.display();
     }  

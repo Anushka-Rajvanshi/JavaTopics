@@ -1,3 +1,4 @@
+package staticblock;
 class A{
     static int i;
     static String name;

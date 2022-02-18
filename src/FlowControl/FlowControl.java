@@ -1,3 +1,4 @@
+package flowcontrol;
 class Grade{
     void CGPA(String str){
         switch (str){

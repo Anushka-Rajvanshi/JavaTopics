@@ -1,4 +1,4 @@
-package Interfaces;
+package interfaces;
 interface Hello{
     void display1();
 }

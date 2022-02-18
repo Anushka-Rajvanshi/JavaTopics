@@ -1,3 +1,4 @@
+package object;
 class Fruit{
   void getColor(String str){
      System.out.println(str);

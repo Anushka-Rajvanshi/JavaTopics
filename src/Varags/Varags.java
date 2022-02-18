@@ -1,3 +1,4 @@
+package varags;
 class A{
     void display(String name, String... args){
         System.out.println(name);

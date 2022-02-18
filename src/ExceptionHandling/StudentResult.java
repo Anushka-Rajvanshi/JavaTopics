@@ -1,4 +1,4 @@
-package ExceptionHandling;
+package exceptionhandling;
 
 import java.util.*;
 
@@ -29,7 +29,7 @@ class Student{
 
 }
 
-public class CustomException {
+public class StudentResult {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your marks: ");

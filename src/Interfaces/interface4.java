@@ -1,4 +1,4 @@
-package Interfaces;
+package interfaces;
 interface Polygon{
     void getArea();
     default void getPerimeter(int... args){

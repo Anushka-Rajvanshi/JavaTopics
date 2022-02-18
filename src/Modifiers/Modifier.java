@@ -1,3 +1,4 @@
+package modifiers;
 //abstract
 abstract class A{
     abstract void getName();

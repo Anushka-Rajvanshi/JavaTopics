@@ -1,3 +1,4 @@
+package variabletypes;
 class A{
     //instance
     int x;

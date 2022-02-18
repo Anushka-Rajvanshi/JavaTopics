@@ -1,3 +1,4 @@
+package exceptionhandling;
 class A{
         int divide(int a, int b){
             return a/b;
